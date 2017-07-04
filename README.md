@@ -8,4 +8,4 @@
 - MongoDB: `3.2.10`
 - Express: `4.14.0`
 
-## From https://github.com/NEOOOOOOOOOO/N-blog
+## From https://github.com/nswbmw/N-blog
